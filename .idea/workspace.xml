@@ -28,10 +28,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="202" selection-end="202" vertical-scroll-proportion="0.110569105">
+            <state line="17" column="26" selection-start="371" selection-end="371" vertical-scroll-proportion="0.30406505">
               <folding />
             </state>
           </provider>
@@ -42,8 +42,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -368,9 +368,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="206" selection-end="206" vertical-scroll-proportion="0.110569105">
+        <state line="4" column="45" selection-start="202" selection-end="202" vertical-scroll-proportion="0.110569105">
           <folding />
         </state>
       </provider>
@@ -382,9 +382,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="202" selection-end="202" vertical-scroll-proportion="0.110569105">
+        <state line="17" column="26" selection-start="371" selection-end="371" vertical-scroll-proportion="0.30406505">
           <folding />
         </state>
       </provider>
